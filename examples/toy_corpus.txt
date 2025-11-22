@@ -1,0 +1,4 @@
+Apple releases a new research paper on self-supervised vision.
+Tesla introduces an autonomous planning module.
+DeepMind publishes a breakthrough in protein folding.
+OpenAI improves the function-calling architecture in GPT models.
