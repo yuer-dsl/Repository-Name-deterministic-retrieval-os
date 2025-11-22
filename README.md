@@ -148,6 +148,38 @@ It is a replacement for the **instability surrounding LLMs**.
 
 ---
 
+# Manifesto
+
+The future of AI will not be decided by bigger models,  
+nor by faster hardware,  
+nor by deeper prompts.
+
+It will be decided by **whether enterprises can prove,  
+with certainty,  
+how their AI systems behaved.**
+
+This project is not a technical artifact.  
+It is a statement:
+
+**AI must be traceable.  
+AI must be accountable.  
+AI must be reproducible.  
+AI must be governable.**
+
+And above all:
+
+**AI must give enterprises a fighting chance  
+when the world demands answers.**
+
+I am not selling technology.  
+I am offering the first software-defined Safe Harbor —  
+a liability shield written in code.
+
+The future belongs to those  
+who can explain their AI.
+
+---
+
 # 🟩 License
 
 MIT — free for research, enterprise trials, and exploration.
